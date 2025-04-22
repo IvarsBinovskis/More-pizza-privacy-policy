@@ -53,6 +53,7 @@ TABLE OF CONTENTS
 14. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?
 
 
+
 1. WHAT INFORMATION DO WE COLLECT?
 
 We want to assure you that our application does not collect, store, or transmit any personal information from its users. This means we do not gather any data that could directly or indirectly identify you, such as your name, address, email address, phone number, location, device identifiers, or any other personal details. Since we do not collect any personal information, we also do not store it on our servers or interact with it in any way. Our app is designed to function without requiring or accessing your personal data.
